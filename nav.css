@@ -1,0 +1,55 @@
+hr {
+	  border:none;
+	  height: 20px;
+	 	width: 100%;
+		height: 50px;
+		margin-top: 0;
+		border-bottom: 1px solid lavender;
+		box-shadow: 0 12px 12px -12px #333;
+	  margin: -50px auto 10px; 
+}
+
+.nav-bar .vogue-text {
+	font-family: vogue;
+	src: url("../fonts/Savoy_Bold.tff");
+	color: black;
+	font-size: 20px;
+	margin-top: 12px;
+}
+
+.nav-bar .vogue-hover:hover {
+	color: #7d211b;
+}
+
+.nav-bar .orpheus-text {
+	font-family: orpheus;
+	src: url("../fonts/orpheus_italic.tff");
+	color: black;
+	font-size: 25px;
+}
+
+.title {
+	font-family: vogue;
+	src: url("../fonts/Savoy_Bold.tff");
+	font-size: 60px;
+	margin-bottom: 10px;
+}
+
+.subtitle {
+	font-family: vogue;
+	src: url("../fonts/Savoy_Bold.tff");
+	font-size: 35px;
+	margin-bottom: 10px;
+}
+
+body {
+	background-color: lavender;
+}
+
+body .nav-bar {
+	background-color: lavender;
+}
+
+.btn.nohover:hover {
+	cursor: default;
+}
